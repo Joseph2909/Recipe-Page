@@ -16,7 +16,10 @@ li{
   margin-left: 15px;
   margin-bottom: 7px;
 }
-
+ul{
+  padding-left: 0px;
+  margin: 0px;
+}
 p{
   font-family: 'Outfit', sans-serif;
   font-weight: 400;
